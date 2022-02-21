@@ -43,8 +43,8 @@ epiblast
 ![image_cell8](https://user-images.githubusercontent.com/72338612/155023138-b34a0c48-dc22-447c-bd99-5ce24ada363d.png)
 icm
 ![image_icm](https://user-images.githubusercontent.com/72338612/155023177-9f6979e4-ee9c-4d2d-aee5-e07e735df302.png)
-epiblast!
-[image_epiblast](https://user-images.githubusercontent.com/72338612/155023209-47f2e353-74cd-4816-a1f3-fe70e8119c0b.png)
+epiblast
+![image_epiblast](https://user-images.githubusercontent.com/72338612/155023209-47f2e353-74cd-4816-a1f3-fe70e8119c0b.png)
 
 
 
