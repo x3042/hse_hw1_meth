@@ -1,6 +1,6 @@
 # hse_hw1_meth
 hse_hw1_meth
-
+ссылка на коллаб https://colab.research.google.com/drive/1wsJgWPpZ_EaLZiYhK4cxS5GoZi_TDnHq?usp=sharing
 сравниваю 8cell c отчетом из hw3 прошлого семестра https://github.com/x3042/hse_hw1_meth/blob/main/data/multiqc_report.html
 
 <img width="861" alt="Screenshot 2022-02-21 at 23 05 00" src="https://user-images.githubusercontent.com/72338612/155019792-9ab3f438-de6c-4556-8677-41abd29c52ad.png">
