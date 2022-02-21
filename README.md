@@ -1,7 +1,7 @@
 # hse_hw1_meth
 hse_hw1_meth
 
-сравниваю 8cell c https://github.com/x3042/hse21_hw3
+сравниваю 8cell c отчетом из hw3 прошлого семестра https://github.com/x3042/hse_hw1_meth/blob/main/data/multiqc_report.html
 
 <img width="861" alt="Screenshot 2022-02-21 at 23 05 00" src="https://user-images.githubusercontent.com/72338612/155019792-9ab3f438-de6c-4556-8677-41abd29c52ad.png">
 <img width="891" alt="Screenshot 2022-02-21 at 23 05 56" src="https://user-images.githubusercontent.com/72338612/155019908-d2296385-1c63-48bc-aa56-b0f4e31dfa7f.png">
