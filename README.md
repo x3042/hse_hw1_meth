@@ -25,13 +25,14 @@ M-bias Plots
 ![8cell_mbias](https://user-images.githubusercontent.com/72338612/155022385-4c1de9fd-d100-41a6-af7c-4b3f961664a9.png)
 icm![icm_mbias](https://user-images.githubusercontent.com/72338612/155022535-de1da6cc-08d8-4858-8934-56396a38b6ed.png)
 epiblast ![epiblast_mbias](https://user-images.githubusercontent.com/72338612/155022584-3dd99d4a-ee08-4476-a075-02a52b4d3082.png)
-histograms!
-[8cell](https://user-images.githubusercontent.com/72338612/155022948-0f28c8cb-a317-40d6-9b3f-ea1e68d16b5c.png)
+histograms
+![8cell](https://user-images.githubusercontent.com/72338612/155022948-0f28c8cb-a317-40d6-9b3f-ea1e68d16b5c.png)
 8cell 
-icm![icm](https://user-images.githubusercontent.com/72338612/155022971-32e0e0cd-2d72-4d4b-b64e-498c2009abdb.png)
+icm
+![icm](https://user-images.githubusercontent.com/72338612/155022971-32e0e0cd-2d72-4d4b-b64e-498c2009abdb.png)
+epiblast
 ![epiblast](https://user-images.githubusercontent.com/72338612/155022986-30868bb3-ef5a-4a7e-89aa-487cd0d6fe35.png)
 
-epiblast
 
 Рисунки с уровнем метилирования и покрытием на любом регионе
 8cell
